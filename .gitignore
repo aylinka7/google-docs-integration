@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.env/
+.venv/
+
+# Environment variables
+.env
+.env.*
+
+# PyCharm
+.idea/
+
+# Logs
+*.log
+
+# SQLite database (если используешь)
+*.db
+
+# Migrations (если Alembic — НЕ игнорируй версии!)
+# migrations/versions/*.py  ← НЕ добавляй это
